@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# xstate-tester
+
+A crude app to help me learn xstate. Simple home automation controller dashboard.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
